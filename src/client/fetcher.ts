@@ -44,4 +44,3 @@ export const fetcher = async (
       return extractBody(res);
     });
   };
-  
