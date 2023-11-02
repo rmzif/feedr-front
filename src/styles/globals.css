@@ -76,5 +76,9 @@
 }
 
 body {
-  background-color: black;
+  background-color: white;
+}
+
+a, p, h1 {
+  color: black;
 }
